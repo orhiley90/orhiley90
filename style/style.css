@@ -1,0 +1,9 @@
+.cardPad {
+        position: relative;
+        max-width: 100%;
+        height: auto;
+        background: #2db34a;
+        border: 2px solid black;
+
+}
+    
