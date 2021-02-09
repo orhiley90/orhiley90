@@ -1,4 +1,5 @@
-### Hi there 👋
+My name is Rhiley Southam, I am currently attending the University of Arizona's Coding Boot Camp. I eventually want to become a programmer and use the skills and abilities I will acquire during this coursework to enter the field with the knowledge to be able to perform at industry standards. 
+                I also want to continue to develop my skills as I would like to someday become a game developer/designer. I've always loved games and can truly appreciate the hardwork that allows others to experience one of the most expressive mediums out there. I may not be able to draw well but I have ideas for how a game can look.
 
 <!--
 **orhiley90/orhiley90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
